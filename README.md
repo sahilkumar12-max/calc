@@ -35,13 +35,9 @@ A simple scientific calculator application developed in C# using Windows Forms.
 
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- Project structure and initial code inspired by [example project/link].
+
 - Special thanks to [contributors, if any] for their contributions.
 
 ## Contact
